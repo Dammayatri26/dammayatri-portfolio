@@ -19,28 +19,29 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/rs-banner.png)
+![](../assets/images/placeholder-project.png)
 
-**[Remote Sensing](index-rs.md)**
-
-This section highlights the projects that I have done in remote sensing and geospatial analysis, involving the use of satellite imagery and spatial data to create maps, analyze spatial patterns, and support monitoring and decision-making.
-
-`[GEE]` `[ENVI]` `[ERDAS Imagine]` `[PCI Geomatica]`
-
-[View Project →](index-rs.md){ .md-button }
-</div>
-
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
-
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Muara Gembong Mangrove Extent](rs-muaragembong.md)**
 
 [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
 and what you found or built.]
 
-`Python` `pandas` `Folium`
+`[GEE]` `[Random Forest Classification]` 
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](rs-muaragembong.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/placeholder-project.png)
+
+**[Jakarta Green Open Space](rs-muaragembong.md)**
+
+[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
+and what you found or built.]
+
+`[ENVI]` `[ArcGIS Pro]` `[NDVI]`
+
+[View Project →](rs-muaragembong.md){ .md-button }
 </div>
 
 </div>
