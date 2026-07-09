@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Retno Dammayatri</h1>
+  <p><strong>GIS & Remote Sensing Analyst</strong></p>
+  <p><em>Turning complex geospatial data into clear spatial insight | GIS | Remote Sensing | LiDAR</em></p>
 </div>
 
 ---
@@ -32,15 +32,11 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+My journey into GIS began with a fascination for how location and spatial relationships help us understand the world around us. With a background in Geodesy and Geomatics Engineering, I developed a strong foundation in spatial data, remote sensing, and geospatial technologies — combining technical precision with a practical approach to analysing, managing, and visualising geographic information.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I have experience transforming complex spatial datasets into meaningful insights — from designing data collection workflows and managing geospatial databases to developing dashboards, analysing spatial information, and creating clear documentation to support decision-making. I enjoy solving spatial challenges, improving data quality, and building efficient workflows that bridge technical analysis with practical outcomes.
+
+Originally from Indonesia, currently based in Brisbane, Australia on Work and Holiday Visa (subclass 462), I am passionate about applying GIS and remote sensing to spatial intelligence, data management, and geospatial problem-solving. I bring analytical rigour, curiosity, and a commitment to delivering accurate, impactful geospatial solutions.
 
 </div>
 
@@ -53,7 +49,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Retno-CV.pdf){ .md-button }
 
 
 ---
@@ -62,55 +58,60 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-layers:{ .lg .middle } **GIS**
 
     ---
 
     - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Land Use / Land Cover (LULC) Mapping
+    - Spatial Analysis & Suitability Mapping
+    - Raster & Vector Geoprocessing
+    - WebGIS, Cartography & Map Layout Design
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-satellite-variant:{ .lg .middle } **Remote Sensing**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Satellite imagery pre-processing (Radiometric Correction, Geometric Correction)
+    - Spectral Indiches e.g NDVI, NDBI, NDBaI, EVI etc.
+    - Supervised & Unsupervised Classification
+    - DSM & DTM Production
+    
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-star-four-points:{ .lg .middle } **LiDAR Data Processing**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Data and Trajectory Extraction
+    - Point Cloud Classification / Post Processing
+    - Strip Adjustment
+    - Map Digitizing and Visualization
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-airplane:{ .lg .middle } **Photogrammetry / UAV Data Processing**
 
     - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - GNSS PPK/Trajectory Processing
+    - Data Processing (Orthophoto, DTM, DSM)
+    - Photogrammetry Software: Agisoft Metashape, PIX4D
+
+-   :material-earth:{ .lg .middle } **Web & Cloud**
+
+    ---
+
+    - ArcGIS Online
+    - Storymaps
+    - ArcGIS Dashboard
+    - QGIS2Web
+    - Leaflet.js, Folium, MapLibre GL JS
+
+-   :material-database:{ .lg .middle } **Geospatial Intelligence**
+
+    ---
+
+    - Imagery Intelligence (IMINT)
+    - Open Source Intelligence (OSINT)
+
+
 </div>
 
 
@@ -118,5 +119,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/Dammayatri26){ .md-button }
+[LinkedIn](https://linkedin.com/in/retnodammayatri/){ .md-button }
