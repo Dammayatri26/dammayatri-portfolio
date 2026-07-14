@@ -1,0 +1,697 @@
+		<!doctype html>
+		<html lang="en-GB">
+				<head>
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="profile" href="https://gmpg.org/xfn/11">
+			<style id="jetpack-boost-critical-css">@media all{#jp-relatedposts{display:none;padding-top:1em;margin:1em 0;position:relative;clear:both}.jp-relatedposts::after{content:"";display:block;clear:both}#jp-relatedposts h3.jp-relatedposts-headline{margin:0 0 1em 0;display:inline-block;float:left;font-size:9pt;font-weight:700;font-family:inherit}#jp-relatedposts h3.jp-relatedposts-headline em::before{content:"";display:block;width:100%;min-width:30px;border-top:1px solid rgb(0 0 0/.2);margin-bottom:1em}#jp-relatedposts h3.jp-relatedposts-headline em{font-style:normal;font-weight:700}*{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0}:root{font-size:16px}html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-ms-overflow-style:scrollbar;font-family:sans-serif;font-size:100%;line-height:1.15}@-ms-viewport{width:device-width}body,html{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body{-moz-word-wrap:break-word;-webkit-word-wrap:break-word;-ms-word-wrap:break-word;word-wrap:break-word;color:#010101;font-family:Muli,sans-serif;font-size:1rem;font-weight:400;letter-spacing:0;line-height:1.6;margin:0;padding:0;vertical-align:baseline}article,aside,figure,header,main,nav{display:block}ul{list-style:disc}ul{margin:0 0 20px 50px;padding:0}p{margin:0 0 20px}p:empty{display:none}a{color:#010101;text-decoration:none}.wp-block-button__link{color:inherit}.wp-block-button__link{text-decoration:none}h1,h3{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:Roboto,sans-serif;font-weight:700;letter-spacing:0;line-height:1.2;margin-bottom:20px}h1{font-size:38px;line-height:1.1}h3{font-size:26px;line-height:1.3}form{display:block}input[type=search]{border:1px solid #eee;border-radius:0;-webkit-box-shadow:inset 1px 1px 3px #f6f6f6;box-shadow:inset 1px 1px 3px #f6f6f6;display:block;font-family:-apple-system,BlinkMacSystemFont,Noto Sans,"system-ui",Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;font-size:15px;height:auto;margin:0;max-width:100%;padding:12px 15px;width:100%}input::-webkit-input-placeholder{line-height:normal}input:-ms-input-placeholder{line-height:normal}input::-moz-placeholder{line-height:normal}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-results-button{display:none}button{-webkit-appearance:none;-moz-appearance:none;background-color:#ff3d00;border:none;border-radius:2px;color:#fff;display:inline-block;font-family:Muli,sans-serif;font-size:16px;font-weight:400;height:auto;line-height:1;opacity:1;padding:13px 30px;text-align:center;text-decoration:none}img{border-style:none;height:auto;max-width:100%;vertical-align:middle}figure{margin:0;padding:0;position:relative}em{font-style:italic}ins{background-color:#fffbae;color:#222;text-decoration:none}svg:not(:root){overflow:hidden}.row{display:-ms-flexbox;display:-webkit-box;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-left:-15px;margin-right:-15px}.cm-col-12,.cm-col-lg-4,.cm-col-lg-8,.cm-col-md-5,.cm-col-md-7{padding-left:15px;padding-right:15px;position:relative;width:100%}.cm-col-12{-webkit-box-flex:0;-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}@media (min-width:768px){.cm-col-md-5{-webkit-box-flex:0;-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.cm-col-md-7{-webkit-box-flex:0;-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}}@media (min-width:992px){.cm-col-lg-4{-webkit-box-flex:0;-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.cm-col-lg-8{-webkit-box-flex:0;-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}}.align-items-center{-ms-flex-align:center!important;-webkit-box-align:center!important;align-items:center!important}.cm-post-meta{margin-top:5px}ul.post_meta{list-style:none;margin:0}ul.post_meta li{display:inline-block;font-size:14px;margin-bottom:0;margin-right:15px}ul.post_meta li a{color:#666;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:nowrap;flex-wrap:nowrap;font-size:14px}ul.post_meta li a{-webkit-box-align:center;-ms-flex-align:center;align-items:center}ul.post_meta li span.cm-meta-icon{line-height:1}ul.post_meta li a span.cm-meta-icon{margin-right:5px}ul.post_meta li span.cm-meta-icon svg{fill:#666;color:#666;height:14px;width:14px}.primary-navigation{line-height:normal;position:relative;width:100%;z-index:9900}.primary-navigation ul{margin:0;padding:0;text-align:left}.primary-navigation li{display:block;line-height:normal;list-style:none;margin:0;padding:0;position:relative;vertical-align:middle}.primary-navigation li a{-webkit-box-sizing:border-box;box-sizing:border-box;color:#777;display:block;font-size:15px;padding:8px 15px}.primary-navigation>ul>li{display:inline-block}.primary-navigation>ul>li>a{font-size:1rem;font-weight:400;padding:15px 10px}@media only screen and (max-width:768px){.primary-navigation{display:block;overflow:hidden}.primary-navigation ul{display:none;position:relative}}.cm-container{margin:0 auto;max-width:1170px;padding-left:15px;padding-right:15px;position:relative;width:100%}.page-wrapper{background:#fff;margin:0 auto;position:relative;z-index:2}.post_thumb{position:relative}.post_thumb figure{margin:0}.single-container{padding:30px 0}.single-container .content-entry{margin-top:0}.single-container .content-entry{margin-bottom:40px}body.single .content-entry article{margin:0}body.single .content-entry article .the_title{margin-bottom:10px}body.single .content-entry article .the_title h1{font-size:38px;margin-bottom:20px;margin-top:0}body.single .content-entry article.post-detail .cm-post-meta{margin-bottom:1.5em}body.single .content-entry article .post_thumb{margin-bottom:30px}.cm-search-form{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap;position:relative}.cm-search-form input[type=search]{padding-right:40px;width:100%}.cm-search-form .cm-submit-btn{background-color:#fff0;border:none;border-left:1px solid #eee;color:#010101;font-size:16px;height:22px;line-height:22px;margin:0;padding:0;position:absolute;right:4px;top:auto;width:35px;z-index:1}.cm-search-form .cm-submit-btn svg{fill:#010101;color:#010101;height:16px;width:16px}header.cm-header-style-one{background-position:50%;background-repeat:no-repeat;background-size:cover}.top-header{background-color:#fff;box-shadow:0 2px 30px -5px rgb(0 0 0/.1);-webkit-box-shadow:0 2px 30px -5px rgb(0 0 0/.1);-moz-box-shadow:0 2px 30px -5px rgb(0 0 0/.1);-ms-box-shadow:0 2px 30px -5px rgb(0 0 0/.1);-o-box-shadow:0 2px 30px -5px rgb(0 0 0/.1);padding:10px 0}.top-header-social-links ul{list-style:none;margin:0;padding:0}.top-header-social-links ul{text-align:right}.logo-container{padding:30px 0}header .site-title{font-family:Roboto,sans-serif;font-size:28px;font-weight:700;line-height:1.2;margin-bottom:0}.primary-navigation ul li a{position:relative}.header-search-container{display:none;position:relative}.header-search-container .search-form-entry{background:#fff;border-top:3px solid #ff3d00;box-shadow:0 2px 6px rgb(0 0 0/.2);-webkit-box-shadow:0 2px 6px rgb(0 0 0/.2);-o-box-shadow:0 2px 6px rgb(0 0 0/.2);-ms-box-shadow:0 2px 6px rgb(0 0 0/.2);-moz-box-shadow:0 2px 6px rgb(0 0 0/.2);max-width:100%;overflow:auto;padding:20px;position:absolute;right:0;top:0;width:400px;z-index:1000}ul.social-icons li{display:inline-block;margin-bottom:0}ul.social-icons li a{display:inline-block;font-size:0;height:0;line-height:1;margin-right:0;text-align:center;width:30px}ul.social-icons li a[href*=".com"] svg{color:#010101;font-size:14px;height:14px;width:14px}ul.social-icons li a[href*="youtube.com"] svg{fill:red;color:red}ul.social-icons li a[href*="linkedin.com"] svg{fill:#0274b3;color:#0274b3}.breadcrumb{background:rgb(0 0 0/.03);margin-top:30px;padding:7px 20px;position:relative}.breadcrumb ul{list-style:none;margin:0}.breadcrumb ul li{display:inline-block;margin:0}.breadcrumb ul li a{color:#666;display:inline-block;font-size:14px;letter-spacing:0;position:relative}.breadcrumb ul li a:after{content:">";padding:0 10px}.breadcrumb ul li:last-child{padding-right:0}.breadcrumb ul li:last-child a,.breadcrumb ul li:last-child span{color:#ff3d00}.breadcrumb ul li:last-child a:after{content:"";display:none}.breadcrumb:after{border-color:#fff0 #fff0 rgb(0 0 0/.03);border-style:solid;border-width:13px 12px;bottom:-26px;content:"";display:block;height:0;left:15px;position:absolute;-webkit-transform:rotate(-180deg);transform:rotate(-180deg);width:0;z-index:11}#toTop{background:#ff3d00;border:none;border-radius:2px;bottom:10px;color:#fff;display:none;font-size:16px;height:45px;padding:0;position:fixed;right:10px;width:45px;z-index:2}#toTop svg{fill:#fff;color:#fff}.sidebar-widget-area .widget{background-color:rgb(0 0 0/.03);margin-bottom:30px;overflow:hidden;padding:30px 20px}.sidebar-widget-area .widget:last-child{margin-bottom:0}.the_content{font-family:-apple-system,BlinkMacSystemFont,Noto Sans,"system-ui",Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;font-size:1rem}.the_content p{line-height:1.8;margin-bottom:20px;margin-top:20px}.the_content>:first-child{margin-top:0}.the_content h3{margin-bottom:20px;margin-top:40px}.the_content a{color:#0061ff;text-decoration:underline}.the_content ul li{margin-bottom:10px}.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px}.hentry{margin:0 0 1.5em}.content-entry{margin:1.5em 0 0}@media (max-width:1024px){.logo-container{padding:20px 0}}@media (max-width:992px){.cm-container{max-width:90%}.logo-container{padding:15px 0}.primary-navigation ul li a{font-size:15px}.primary-navigation>ul>li:first-child{padding-left:0;padding-right:0}.header-search-container form{left:0;right:auto;width:100%}body.right-sidebar .sidebar-widget-area{margin-top:30px}}@media (max-width:991px){.header-search-container .search-form-entry{left:0;right:auto;width:100%}}@media (max-width:768px){h1{font-size:28px}h3{font-size:24px}.single-container{padding:30px 0}.cm-container{max-width:90%}.top-header-social-links ul{margin-left:-10px;margin-top:5px;text-align:left}}@media (max-width:576px){.cm-container{max-width:96%}.single-container .content-entry{margin-bottom:30px}header .site-title{font-size:26px}body.single .content-entry article .post_thumb{margin-bottom:20px}.breadcrumb{margin-bottom:0}.sidebar-widget-area .widget{margin-bottom:20px;padding:20px}body.single .content-entry article .the_title h1{font-size:28px}}.jetpack-subscribe-floating-button{position:fixed;z-index:50000;bottom:0;right:0}}</style><title>PIX4D &#8211; Machine learning meets photogrammetry &#8211; sUAS News</title>
+<meta name='robots' content='max-image-preview:large' />
+<!-- Google tag (gtag.js) consent mode dataLayer added by Site Kit -->
+
+<!-- End Google tag (gtag.js) consent mode dataLayer added by Site Kit -->
+<link rel='dns-prefetch' href='//www.suasnews.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel='preconnect' href='//i0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="sUAS News &raquo; Feed" href="https://www.suasnews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="sUAS News &raquo; Comments Feed" href="https://www.suasnews.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.suasnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.suasnews.com%2F2017%2F09%2Fpix4d-machine-learning-meets-photogrammetry%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.suasnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.suasnews.com%2F2017%2F09%2Fpix4d-machine-learning-meets-photogrammetry%2F&#038;format=xml" />
+<noscript><link rel='stylesheet' id='all-css-da08b7e7efac914c11ff20eb425570b4' href='https://www.suasnews.com/wp-content/boost-cache/static/1fdb6e0951.min.css' type='text/css' media='all' /></noscript><link data-media="all" onload="this.media=this.dataset.media; delete this.dataset.media; this.removeAttribute( &apos;onload&apos; );" rel='stylesheet' id='all-css-da08b7e7efac914c11ff20eb425570b4' href='https://www.suasnews.com/wp-content/boost-cache/static/1fdb6e0951.min.css' type='text/css' media="not all" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://www.suasnews.com/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://www.suasnews.com/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-group-inline-css">
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+/*# sourceURL=https://www.suasnews.com/wp-includes/blocks/group/style.min.css */
+</style>
+<style id="wp-block-separator-inline-css">
+@charset "UTF-8";.wp-block-separator{border:none;border-top:2px solid}:root :where(.wp-block-separator.is-style-dots){height:auto;line-height:1;text-align:center}:root :where(.wp-block-separator.is-style-dots):before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}.wp-block-separator.is-style-dots{background:none!important;border:none!important}
+/*# sourceURL=https://www.suasnews.com/wp-includes/blocks/separator/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 16px;--wp--preset--font-size--medium: 28px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--larger: 38px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-larger-font-size{font-size: var(--wp--preset--font-size--larger) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+
+
+
+
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+
+
+<link rel="https://api.w.org/" href="https://www.suasnews.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.suasnews.com/wp-json/wp/v2/posts/56404" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.suasnews.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.1" />
+<link rel="canonical" href="https://www.suasnews.com/2017/09/pix4d-machine-learning-meets-photogrammetry/" />
+<link rel='shortlink' href='https://wp.me/p6VCiP-eFK' />
+
+<!-- This site is using AdRotate v5.18 to display their advertisements - https://ajdg.solutions/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+<meta name="generator" content="Site Kit by Google 1.182.0" />	<style>img#wpstats{display:none}</style>
+		<style>a:hover{text-decoration:none !important;}button,input[type="button"],input[type="reset"],input[type="submit"],.primary-navigation > ul > li.home-btn,.cm_header_lay_three .primary-navigation > ul > li.home-btn,.news_ticker_wrap .ticker_head,#toTop,.section-title h2::after,.sidebar-widget-area .widget .widget-title h2::after,.footer-widget-container .widget .widget-title h2::after,#comments div#respond h3#reply-title::after,#comments h2.comments-title:after,.post_tags a,.owl-carousel .owl-nav button.owl-prev,.owl-carousel .owl-nav button.owl-next,.cm_author_widget .author-detail-link a,.error_foot form input[type="submit"],.widget_search form input[type="submit"],.header-search-container input[type="submit"],.trending_widget_carousel .owl-dots button.owl-dot,.pagination .page-numbers.current,.post-navigation .nav-links .nav-previous a,.post-navigation .nav-links .nav-next a,#comments form input[type="submit"],footer .widget.widget_search form input[type="submit"]:hover,.widget_product_search .woocommerce-product-search button[type="submit"],.woocommerce ul.products li.product .button,.woocommerce .woocommerce-pagination ul.page-numbers li span.current,.woocommerce .product div.summary .cart button.single_add_to_cart_button,.woocommerce .product div.woocommerce-tabs div.panel #reviews #review_form_wrapper .comment-form p.form-submit .submit,.woocommerce .product section.related > h2::after,.woocommerce .cart .button:hover,.woocommerce .cart .button:focus,.woocommerce .cart input.button:hover,.woocommerce .cart input.button:focus,.woocommerce #respond input#submit:hover,.woocommerce #respond input#submit:focus,.woocommerce button.button:hover,.woocommerce button.button:focus,.woocommerce input.button:hover,.woocommerce input.button:focus,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce a.remove:hover,.woocommerce-account .woocommerce-MyAccount-navigation ul li.is-active a,.woocommerce a.button:hover,.woocommerce a.button:focus,.widget_product_tag_cloud .tagcloud a:hover,.widget_product_tag_cloud .tagcloud a:focus,.woocommerce .widget_price_filter .price_slider_wrapper .ui-slider .ui-slider-handle,.error_page_top_portion,.primary-navigation ul li a span.menu-item-description{background-color:#FF3D00}a:hover,.post_title h2 a:hover,.post_title h2 a:focus,.post_meta li a:hover,.post_meta li a:focus,ul.social-icons li a[href*=".com"]:hover::before,.ticker_carousel .owl-nav button.owl-prev i,.ticker_carousel .owl-nav button.owl-next i,.news_ticker_wrap .ticker_items .item a:hover,.news_ticker_wrap .ticker_items .item a:focus,.cm_banner .post_title h2 a:hover,.cm_banner .post_meta li a:hover,.cm_middle_post_widget_one .post_title h2 a:hover,.cm_middle_post_widget_one .post_meta li a:hover,.cm_middle_post_widget_three .post_thumb .post-holder a:hover,.cm_middle_post_widget_three .post_thumb .post-holder a:focus,.cm_middle_post_widget_six .middle_widget_six_carousel .item .card .card_content a:hover,.cm_middle_post_widget_six .middle_widget_six_carousel .item .card .card_content a:focus,.cm_post_widget_twelve .card .post-holder a:hover,.cm_post_widget_twelve .card .post-holder a:focus,.cm_post_widget_seven .card .card_content a:hover,.cm_post_widget_seven .card .card_content a:focus,.copyright_section a:hover,.footer_nav ul li a:hover,.breadcrumb ul li:last-child span,.pagination .page-numbers:hover,#comments ol.comment-list li article footer.comment-meta .comment-metadata span.edit-link a:hover,#comments ol.comment-list li article .reply a:hover,.social-share ul li a:hover,ul.social-icons li a:hover,ul.social-icons li a:focus,.woocommerce ul.products li.product a:hover,.woocommerce ul.products li.product .price,.woocommerce .woocommerce-pagination ul.page-numbers li a.page-numbers:hover,.woocommerce div.product p.price,.woocommerce div.product span.price,.video_section .video_details .post_title h2 a:hover,.primary-navigation.dark li a:hover,footer .footer_inner a:hover,.footer-widget-container ul.post_meta li:hover span,.footer-widget-container ul.post_meta li:hover a,ul.post_meta li a:hover,.cm-post-widget-two .big-card .post-holder .post_title h2 a:hover,.cm-post-widget-two .big-card .post_meta li a:hover,.copyright_section .copyrights a,.breadcrumb ul li a:hover,.breadcrumb ul li a:hover span{color:#FF3D00}.ticker_carousel .owl-nav button.owl-prev,.ticker_carousel .owl-nav button.owl-next,.error_foot form input[type="submit"],.widget_search form input[type="submit"],.pagination .page-numbers:hover,#comments form input[type="submit"],.social-share ul li a:hover,.header-search-container .search-form-entry,.widget_product_search .woocommerce-product-search button[type="submit"],.woocommerce .woocommerce-pagination ul.page-numbers li span.current,.woocommerce .woocommerce-pagination ul.page-numbers li a.page-numbers:hover,.woocommerce a.remove:hover,.ticker_carousel .owl-nav button.owl-prev:hover,.ticker_carousel .owl-nav button.owl-next:hover,footer .widget.widget_search form input[type="submit"]:hover,.trending_widget_carousel .owl-dots button.owl-dot,.the_content blockquote,.widget_tag_cloud .tagcloud a:hover{border-color:#FF3D00}.ticker_carousel.owl-carousel .owl-nav button:hover svg{color:#FF3D00;fill:#FF3D00;}header .mask{background-color:rgba(0,0,0,0.2);}.site-description{color:#000000;}body{font-family:Arial,sans-serif;font-weight:inherit;}h1,h2,h3,h4,h5,h6,.site-title{font-family:Arial,sans-serif;font-weight:inherit;}.entry_cats ul.post-categories li a{background-color:#FF3D00;color:#fff;}.entry_cats ul.post-categories li a:hover,.cm_middle_post_widget_six .middle_widget_six_carousel .item .card .card_content .entry_cats ul.post-categories li a:hover{background-color:#010101;color:#fff;}.the_content a{color:#FF3D00;}.the_content a:hover{color:#010101;}.post-display-grid .card_content .cm-post-excerpt{margin-top:15px;}</style>
+<!-- Google AdSense meta tags added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense meta tags added by Site Kit -->
+<meta name="description" content="Machine-learning point cloud classification With Pix4Dmapper 4.0 you get machine-learning tools for photogrammetry applications in your hands. It allows you to classify 3D point clouds into categories like buildings, roads or vegetation. And this is just the beginning of Pix4D’s latest journey. We believe in the ability of photogrammetry and machine learning techniques to revolutionize&hellip;" />
+		<style type="text/css">
+							.site-title a {
+					color: #dd3333;
+				}
+
+				.site-description {
+					color: #000000				}
+						</style>
+		
+<!-- Google AdSense snippet added by Site Kit -->
+
+
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="PIX4D &#8211; Machine learning meets photogrammetry" />
+<meta property="og:url" content="https://www.suasnews.com/2017/09/pix4d-machine-learning-meets-photogrammetry/" />
+<meta property="og:description" content="Machine-learning point cloud classification With Pix4Dmapper 4.0 you get machine-learning tools for photogrammetry applications in your hands. It allows you to classify 3D point clouds into categor…" />
+<meta property="article:published_time" content="2017-09-25T19:25:59+00:00" />
+<meta property="article:modified_time" content="2017-09-25T19:25:59+00:00" />
+<meta property="og:site_name" content="sUAS News" />
+<meta property="og:image" content="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?fit=1200%2C565&#038;ssl=1" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="565" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:site" content="@suasnews" />
+<meta name="twitter:text:title" content="PIX4D &#8211; Machine learning meets photogrammetry" />
+<meta name="twitter:image" content="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?fit=1200%2C565&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+		<style id="jetpack-block-subscriptions-inline-css">
+.is-style-compact .is-not-subscriber :is(.wp-block-button__link,.wp-block-jetpack-subscriptions__button){border-end-start-radius:0!important;border-start-start-radius:0!important;margin-inline-start:0!important}.is-style-compact .is-not-subscriber .components-text-control__input,.is-style-compact .is-not-subscriber p#subscribe-email input[type=email]{border-end-end-radius:0!important;border-start-end-radius:0!important}.is-style-compact:not(.wp-block-jetpack-subscriptions__use-newline) .components-text-control__input{border-inline-end-width:0!important}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form-container{display:flex;flex-direction:column}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline:not(.wp-block-jetpack-subscriptions__use-newline) .is-not-subscriber .wp-block-jetpack-subscriptions__form-elements{align-items:flex-start;display:flex}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline:not(.wp-block-jetpack-subscriptions__use-newline) p#subscribe-submit{display:flex;justify-content:center}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form input[type=email],.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form input[type=email]{box-sizing:border-box;cursor:pointer;line-height:1.3;min-width:auto!important;white-space:nowrap!important}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form input[type=email]::placeholder,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form input[type=email]:disabled,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form input[type=email]::placeholder,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form input[type=email]:disabled{color:currentColor;opacity:.5}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form button{border-color:#0000;border-style:solid}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email{background:#0000;flex-grow:1}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield .components-base-control__field,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield input[type=email],.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email .components-base-control__field,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email input[type=email],.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield .components-base-control__field,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield input[type=email],.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email .components-base-control__field,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email input[type=email]{height:auto;margin:0;width:100%}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-submit,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-submit{line-height:0;margin:0;padding:0}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__show-subs .wp-block-jetpack-subscriptions__subscount{font-size:16px;margin:8px 0;text-align:end}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__use-newline .wp-block-jetpack-subscriptions__form-elements{display:block}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__use-newline .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__use-newline button{display:inline-block;max-width:100%}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__use-newline .wp-block-jetpack-subscriptions__subscount{text-align:start}#subscribe-submit.is-link{text-align:center;width:auto!important}#subscribe-submit.is-link a{margin-left:0!important;margin-top:0!important;width:auto!important}@keyframes jetpack-memberships_button__spinner-animation{to{transform:rotate(1turn)}}.jetpack-memberships-spinner{display:none;height:1em;margin:0 0 0 5px;width:1em}.jetpack-memberships-spinner svg{height:100%;margin-bottom:-2px;width:100%}.jetpack-memberships-spinner-rotating{animation:jetpack-memberships_button__spinner-animation .75s linear infinite;transform-origin:center}.is-loading .jetpack-memberships-spinner{display:inline-block}body.jetpack-memberships-modal-open{overflow:hidden}dialog.jetpack-memberships-modal{opacity:1}dialog.jetpack-memberships-modal,dialog.jetpack-memberships-modal iframe{background:#0000;border:0;bottom:0;box-shadow:none;height:100%;left:0;margin:0;padding:0;position:fixed;right:0;top:0;width:100%}dialog.jetpack-memberships-modal::backdrop{background-color:#000;opacity:.7;transition:opacity .2s ease-out}dialog.jetpack-memberships-modal.is-loading,dialog.jetpack-memberships-modal.is-loading::backdrop{opacity:0}
+/*# sourceURL=https://www.suasnews.com/wp-content/plugins/jetpack/_inc/blocks/subscriptions/view.css?minify=false */
+</style>
+<style id="core-block-supports-inline-css">
+.wp-container-core-group-is-layout-558d648c > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:480px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-558d648c > .alignwide{max-width:480px;}.wp-container-core-group-is-layout-558d648c .alignfull{max-width:none;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+				<body class="wp-singular post-template-default single single-post postid-56404 single-format-standard wp-embed-responsive wp-theme-cream-magazine right-sidebar">
+						<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+				<div class="page-wrapper">
+		<header class="general-header cm-header-style-one">
+			<div class="top-header">
+			<div class="cm-container">
+				<div class="row">
+					<div class="cm-col-lg-8 cm-col-md-7 cm-col-12">
+						<div class="top-header-left">
+													</div><!-- .top-header-left -->
+					</div><!-- col -->
+					<div class="cm-col-lg-4 cm-col-md-5 cm-col-12">
+						<div class="top-header-social-links">
+									<ul class="social-icons">
+							<li>
+					<a
+						href="https://www.youtube.com/channel/UCV1eWkyxMj35eEsPKrpzJrQ"
+													target="_blank"
+												><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z"/></svg>YouTube</a></li>
+								<li>
+					<a
+						href="https://www.linkedin.com/groups/3400149/"
+													target="_blank"
+												><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z"/></svg>LinkedIn</a></li>
+						</ul>
+								</div><!-- .top-header-social-links -->
+					</div><!-- .col -->
+				</div><!-- .row -->
+			</div><!-- .cm-container -->
+		</div><!-- .top-header -->
+		<div class="cm-container">
+		<div class="logo-container">
+			<div class="row align-items-center">
+				<div class="cm-col-lg-4 cm-col-12">
+							<div class="logo">
+								<span class="site-title"><a href="https://www.suasnews.com/" rel="home">sUAS News</a></span>
+							</div><!-- .logo -->
+						</div><!-- .col -->
+							</div><!-- .row -->
+		</div><!-- .logo-container -->
+		<nav class="main-navigation">
+			<div id="main-nav" class="primary-navigation">
+				<ul id="menu-main-menu" class=""><li id="menu-item-50794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-50794"><a href="https://www.suasnews.com">Home</a></li>
+<li id="menu-item-103510" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-103510"><a href="https://www.suasnews.com/tag/cubepilot/">Cubepilot</a></li>
+<li id="menu-item-103966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103966"><a href="https://fpvwiki.co.uk/">FPV Wiki</a></li>
+<li id="menu-item-103503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-103503"><a href="https://www.suasnews.com/category/the-market/delivery-drones/">Delivery Drones</a></li>
+<li id="menu-item-50105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50105"><a href="https://www.suasnews.com/category/the-market/jobs/">Jobs</a></li>
+<li id="menu-item-103505" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-103505"><a href="https://www.suasnews.com/tag/dji/">DJI</a></li>
+<li id="menu-item-103506" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-103506"><a href="https://www.suasnews.com/tag/ukraine/">Ukraine</a></li>
+<li id="menu-item-103508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103508"><a href="https://thedronemap.com/">UK Dronemap</a></li>
+<li id="menu-item-50106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50106"><a href="https://www.suasnews.com/daily-email/">Daily Email</a></li>
+</ul>			</div><!-- .primary-navigation -->
+			<div class="header-search-container">
+				<div class="search-form-entry">
+					<form role="search" class="cm-search-form" method="get" action="https://www.suasnews.com/"><input type="search" name="s" placeholder="Search..." value="" ><button type="submit" class="cm-submit-btn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg></button></form>				</div><!-- .search-form-entry -->
+			</div><!-- .search-container -->
+		</nav><!-- .main-navigation -->
+	</div><!-- .cm-container -->
+</header><!-- .general-header -->
+<div id="content" class="site-content">
+	<div class="cm-container">
+	<div class="inner-page-wrapper">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main">
+				<div class="cm_post_page_lay_wrap">
+								<div class="breadcrumb  default-breadcrumb">
+				<nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="4" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="https://www.suasnews.com/" rel="home" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item"><a href="https://www.suasnews.com/2017/" itemprop="item"><span itemprop="name">2017</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item"><a href="https://www.suasnews.com/2017/09/" itemprop="item"><span itemprop="name">September</span></a><meta itemprop="position" content="3" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><a href="https://www.suasnews.com/2017/09/pix4d-machine-learning-meets-photogrammetry" itemprop="item"><span itemprop="name">PIX4D &#8211; Machine learning meets photogrammetry</span></a><meta itemprop="position" content="4" /></li></ul></nav>			</div>
+								<div class="single-container">
+						<div class="row">  
+							<div class="cm-col-lg-8 cm-col-12 sticky_portion">
+								<div class="content-entry">
+	<article id="post-56404" class="post-detail post-56404 post type-post status-publish format-standard has-post-thumbnail hentry category-gis">
+		<div class="the_title">
+			<h1>PIX4D &#8211; Machine learning meets photogrammetry</h1>
+		</div><!-- .the_title -->
+					<div class="cm-post-meta">
+				<ul class="post_meta">
+											<li class="post_author">
+							<a href="https://www.suasnews.com/author/press/">
+								<span class="cm-meta-icon">
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M406.5 399.6C387.4 352.9 341.5 320 288 320l-64 0c-53.5 0-99.4 32.9-118.5 79.6C69.9 362.2 48 311.7 48 256C48 141.1 141.1 48 256 48s208 93.1 208 208c0 55.7-21.9 106.2-57.5 143.6zm-40.1 32.7C334.4 452.4 296.6 464 256 464s-78.4-11.6-110.5-31.7c7.3-36.7 39.7-64.3 78.5-64.3l64 0c38.8 0 71.2 27.6 78.5 64.3zM256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-272a40 40 0 1 1 0-80 40 40 0 1 1 0 80zm-88-40a88 88 0 1 0 176 0 88 88 0 1 0 -176 0z"/></svg>
+								</span>
+								Press							</a>
+						</li><!-- .post_author -->
+										</ul><!-- .post_meta -->
+			</div><!-- .meta -->
+									<div class="post_thumb">
+					<figure>
+					<img width="1569" height="739" src="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?fit=1569%2C739&amp;ssl=1" class="attachment-full size-full wp-post-image" alt="PIX4D &#8211; Machine learning meets photogrammetry" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?w=1569&amp;ssl=1 1569w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?resize=768%2C362&amp;ssl=1 768w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?resize=1024%2C482&amp;ssl=1 1024w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?resize=696%2C328&amp;ssl=1 696w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?resize=1068%2C503&amp;ssl=1 1068w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?resize=892%2C420&amp;ssl=1 892w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2017/09/classified-rgb.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 1569px) 100vw, 1569px" />					</figure>
+				</div>
+						<div class="the_content">
+			<div id="machine-learning-point-cloud-classification" class="full-block gray-section">
+<div class="wrap">
+<p class="section-title">Machine-learning point cloud classification</p>
+<div class="case">
+<p>With Pix4Dmapper 4.0 you get machine-learning tools for photogrammetry applications in your hands. It allows you to classify 3D point clouds into categories like buildings, roads or vegetation.</p>
+<p>And this is just the beginning of Pix4D’s latest journey.</p>
+<p>We believe in the ability of photogrammetry and machine learning techniques to revolutionize today&#8217;s workflows and to enable many new ones.  In the end, it will allow the conversion of raw image input to 3D reality models <i>with </i>attributed semantic information.</p>
+<p>That means, instead of having operators inspecting and measuring 3D reality models manually, they will directly receive automatically-generated answers to questions like:</p>
+<ul>
+<li>How many trees are within the project area and at what locations? What is their height and species?</li>
+<li>What is the total road surface area in your area of interest?</li>
+<li>What is the amount and distribution of roofs that are suitable for solar cell coverage?</li>
+<li>How many cars are at your parking lot and at what locations?</li>
+</ul>
+<p>Answering these very specific questions will make workflows feasible that allow photogrammetric processing being connected directly to GIS databases to update their vectorized information based on any new drone data collected.</p>
+<p>There is still work to be done. Machine learning techniques are as good as the training data that are used to build the classification models. We opted to give our users the tools to control and refine the classification. As a baby learns how to see and interpret its environment gradually as it grows, our machine learning techniques evolve with the training data and the results will model more object categories and become more reliable.</p>
+<p>As of today, professionals will use the new machine learning based point classification mainly to automatically generate digital terrain models (DTMs). In the near future, point classification also forms the basis to extract buildings and model them as a semantic composition of geometry elements as roof, facade, windows, doors and balconies for example.</p>
+<p>Our growing R&amp;D teams in Lausanne, Berlin and San Francisco are dedicated to this challenge.</p>
+<p><em>– Christoph Strecha, CEO and Founder Pix4D</em></p>
+</div>
+</div>
+</div>
+<section class="info-block white">
+<div class="wrap">
+<h2 class="section-title">Trained algorithms based on geometry</h2>
+<p>Our first step in this direction is our novel machine-learning based point cloud classification.</p>
+<p>We have trained algorithms based on geometry and pixel values to understand object classes.</p>
+<p>We are able to collect user inputs to train new algorithms which can adapt to many topics, for instance in aggregates separating stockpiles from the bare terrain and measure volumes automatically with unprecedented accuracy, or digitizing automatically new road and urban areas.</p>
+<p><img data-recalc-dims="1" decoding="async" class="alignnone size-full wp-image-12341" src="https://i0.wp.com/pix4d.com/wp-content/uploads/2015/11/classified-rgb-1.png?w=640&#038;ssl=1" sizes="(max-width: 1569px) 100vw, 1569px" srcset="https://pix4d.com/wp-content/uploads/2015/11/classified-rgb-1.png 1569w, https://pix4d.com/wp-content/uploads/2015/11/classified-rgb-1-300x141.png 300w, https://pix4d.com/wp-content/uploads/2015/11/classified-rgb-1-768x362.png 768w, https://pix4d.com/wp-content/uploads/2015/11/classified-rgb-1-1024x482.png 1024w" /></p>
+<p><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/pix4d.com/wp-content/uploads/2017/09/Screenshot-2017-09-24-09.21.50-1024x672.png?resize=640%2C420&#038;ssl=1" alt="" width="640" height="420" /></p>
+</div>
+</section>
+<div id="extract-bare-earth-terrain-by-excluding-above-ground-objects" class="full-block gray-section">
+<div class="wrap">
+<h2 class="section-title">Extract bare-earth terrain by excluding above-ground objects</h2>
+<div class="case">
+<p>A lot of hydrological or geological analysis need to be done with bare terrain models. In Pix4Dmapper, you can use the point classification function to separate all the above-ground objects and improve the classification using the point editing tools.</p>
+<p>&nbsp;</p>
+<p><img data-recalc-dims="1" decoding="async" class="non-responsive aligncenter wp-image-12383 size-full" src="https://i0.wp.com/pix4d.com/wp-content/uploads/2017/09/image-2.png?resize=640%2C153&#038;ssl=1" sizes="(max-width: 900px) 100vw, 900px" srcset="https://pix4d.com/wp-content/uploads/2017/09/image-2.png 900w, https://pix4d.com/wp-content/uploads/2017/09/image-2-300x72.png 300w, https://pix4d.com/wp-content/uploads/2017/09/image-2-768x183.png 768w" alt="" width="640" height="153" /></p>
+<div></div>
+</div>
+</div>
+</div>
+<div id="ignore-vegetations-on-top-of-a-stockpile-for-more-accurate-volume-measurement" class="full-block gray-section">
+<div class="wrap">
+<h2 class="section-title">Ignore vegetations on top of a stockpile for more accurate volume measurement</h2>
+<div class="case">
+<p>To get an accurate volume measurement, it is crucial to remove vegetation or human-made objects  from the point cloud. With the point classification, it would be more time-saving to achieve more reliable volume calculations.</p>
+<p><img data-recalc-dims="1" decoding="async" class="non-responsive aligncenter wp-image-12384 size-full" src="https://i0.wp.com/pix4d.com/wp-content/uploads/2017/09/image-1.png?resize=640%2C153&#038;ssl=1" sizes="(max-width: 900px) 100vw, 900px" srcset="https://pix4d.com/wp-content/uploads/2017/09/image-1.png 900w, https://pix4d.com/wp-content/uploads/2017/09/image-1-300x72.png 300w, https://pix4d.com/wp-content/uploads/2017/09/image-1-768x183.png 768w" alt="" width="640" height="153" /></p>
+<div></div>
+</div>
+</div>
+</div>
+<div id="prevent-electricity-outage-by-vegetation-growth-control" class="full-block gray-section">
+<div class="wrap">
+<h2 class="section-title">Prevent electricity outage by vegetation growth control</h2>
+<div class="case">
+<p>Vegetation is one of the leading causes to power line outage. It is extremely important for the energy company to keep track on the vegetation growth to be able to trim it before it causes damages. With the point classification, the extracted infrastructures can be grouped and manually digitized for further analysis.</p>
+<p>&nbsp;</p>
+<p><img data-recalc-dims="1" loading="lazy" decoding="async" class="non-responsive aligncenter wp-image-12385 size-full" src="https://i0.wp.com/pix4d.com/wp-content/uploads/2017/09/powerline.jpg?resize=500%2C265&#038;ssl=1" sizes="auto, (max-width: 500px) 100vw, 500px" srcset="https://pix4d.com/wp-content/uploads/2017/09/powerline.jpg 500w, https://pix4d.com/wp-content/uploads/2017/09/powerline-300x159.jpg 300w" alt="" width="500" height="265" /></p>
+<p>&nbsp;</p>
+<div></div>
+</div>
+</div>
+</div>
+<section class="info-block white">
+<div class="wrap">
+<h2 class="section-title">Pix4Dmapper 4.0: available today</h2>
+<p>Contains supervised machine-learning technology<br />
+Automatically classify 3D points based on both geometry and color<br />
+Visualize and improve the classified points in Pix4Dmapper rayCloud<br />
+Classify 10 million points in 3 minutes</p>
+<p><a class="btn btn-green" href="https://cloud.pix4d.com/signup" target="_blank" rel="noopener">TRY IT TODAY</a></p>
+</div>
+</section>
+
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>
+<div class="wp-block-group has-border-color" style="border-style:none;border-width:0px;margin-top:32px;margin-bottom:32px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+	
+	<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide" style="margin-bottom:24px"/>
+	
+
+	
+	<h3 class="wp-block-heading has-text-align-center" style="margin-top:4px;margin-bottom:10px">Discover more from sUAS News</h3>
+	
+
+	
+	<p class="has-text-align-center wp-block-paragraph" style="margin-top:10px;margin-bottom:10px;font-size:15px">Subscribe to get the latest posts sent to your email.</p>
+	
+
+	
+	<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-container-core-group-is-layout-558d648c wp-block-group-is-layout-constrained">
+			<div class="wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions">
+		<div class="wp-block-jetpack-subscriptions__container is-not-subscriber">
+							<form
+					action="https://wordpress.com/email-subscriptions"
+					method="post"
+					accept-charset="utf-8"
+					data-blog="102389951"
+					data-post_access_level="everybody"
+					data-subscriber_email=""
+					id="subscribe-blog"
+				>
+					<div class="wp-block-jetpack-subscriptions__form-elements">
+												<p id="subscribe-email">
+							<label
+								id="subscribe-field-label"
+								for="subscribe-field"
+								class="screen-reader-text"
+							>
+								Type your email…							</label>
+							<input
+									required="required"
+									type="email"
+									name="email"
+									autocomplete="email"
+									class="no-border-radius "
+									style="font-size: 16px;padding: 15px 23px 15px 23px;border-radius: 0px;border-width: 1px;"
+									placeholder="Type your email…"
+									value=""
+									id="subscribe-field"
+									title="Please fill in this field."
+								/>						</p>
+												<p id="subscribe-submit"
+													>
+							<input type="hidden" name="action" value="subscribe"/>
+							<input type="hidden" name="blog_id" value="102389951"/>
+							<input type="hidden" name="source" value="https://www.suasnews.com/2017/09/pix4d-machine-learning-meets-photogrammetry/"/>
+							<input type="hidden" name="sub-type" value="subscribe-block"/>
+							<input type="hidden" name="app_source" value="subscribe-block-post-end"/>
+							<input type="hidden" name="redirect_fragment" value="subscribe-blog"/>
+							<input type="hidden" name="lang" value="en_GB"/>
+							<input type="hidden" id="_wpnonce" name="_wpnonce" value="86e7806a05" /><input type="hidden" name="_wp_http_referer" value="/2017/09/pix4d-machine-learning-meets-photogrammetry/" /><input type="hidden" name="post_id" value="56404"/>							<button type="submit"
+																	class="wp-block-button__link no-border-radius"
+																									style="font-size: 16px;padding: 15px 23px 15px 23px;margin: 0; margin-left: 10px;border-radius: 0px;border-width: 1px;"
+																name="jetpack_subscriptions_widget"
+							>
+								Subscribe							</button>
+						</p>
+					</div>
+				</form>
+								</div>
+	</div>
+	
+	</div></div>
+	
+</div></div>
+		</div><!-- .the_content -->
+			</article><!-- #post-56404 -->
+</div><!-- .content-entry -->
+	<div class="author_box">
+		<div class="row no-gutters">
+			<div class="cm-col-lg-3 cm-col-md-2 cm-col-3">
+				<div class="author_thumb">
+					<img alt='' src='https://secure.gravatar.com/avatar/ec53995d61277bc5f7d35181f0665923a4eb459b59410c4abe3dfdc70bc1fac4?s=300&#038;d=wp_user_avatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/ec53995d61277bc5f7d35181f0665923a4eb459b59410c4abe3dfdc70bc1fac4?s=600&#038;d=wp_user_avatar&#038;r=g 2x' class='avatar avatar-300 photo' height='300' width='300' loading='lazy' decoding='async'/>				</div><!-- .author_thumb -->
+			</div><!-- .col -->
+			<div class="cm-col-lg-9 cm-col-md-10 cm-col-9">
+				<div class="author_details">
+					<div class="author_name">
+						<h3>Press</h3>
+					</div><!-- .author_name -->
+					<div class="author_desc">
+											</div><!-- .author_desc -->
+				</div><!-- .author_details -->
+			</div><!-- .col -->
+		</div><!-- .row -->
+	</div><!-- .author_box -->
+	
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.suasnews.com/2017/09/embry-riddle-unmanned-aircraft-systems-uas-seminar-daytona-beach/" rel="prev"><span class="cm-post-nav-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z"/></svg></span>Prev</a></div><div class="nav-next"><a href="https://www.suasnews.com/2017/09/national-science-foundation-selects-nctc-lead-large-project-drone-initiative-education/" rel="next">Next<span class="cm-post-nav-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/></svg></span></a></div></div>
+	</nav>	<section class="cm_related_post_container">
+		<div class="section_inner">
+						<div class="row">
+									<div class="cm-col-lg-6 cm-col-md-6 cm-col-12">
+						<div class="card">
+															<div class="post_thumb">
+											<a href="https://www.suasnews.com/2020/11/four-days-28-000ha-aerial-survey-by-uas/">
+			<figure class="imghover">
+				<img width="800" height="450" src="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/11/Believer-Uganda.jpg?resize=800%2C450&amp;ssl=1" class="attachment-cream-magazine-thumbnail-2 size-cream-magazine-thumbnail-2 wp-post-image" alt="Four days, 28 000ha aerial survey by UAS" decoding="async" loading="lazy" />			</figure>
+		</a>
+										</div><!-- .post_thumb.imghover -->
+															<div class="card_content">
+																<div class="post_title">
+									<h2><a href="https://www.suasnews.com/2020/11/four-days-28-000ha-aerial-survey-by-uas/">Four days, 28 000ha aerial survey by UAS</a></h2>
+								</div><!-- .post_title -->
+											<div class="cm-post-meta">
+				<ul class="post_meta">
+									</ul><!-- .post_meta -->
+			</div><!-- .meta -->
+				 
+							</div><!-- .card_content -->
+						</div><!-- .card -->
+					</div><!-- .col -->
+										<div class="cm-col-lg-6 cm-col-md-6 cm-col-12">
+						<div class="card">
+															<div class="post_thumb">
+											<a href="https://www.suasnews.com/2020/11/virtual-surveyor-introduces-curb-gutter-mapping-in-new-version-of-drone-surveying-software/">
+			<figure class="imghover">
+				<img width="800" height="450" src="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/11/Virtual-Surveyor-Graphic_VS7.6.jpg?resize=800%2C450&amp;ssl=1" class="attachment-cream-magazine-thumbnail-2 size-cream-magazine-thumbnail-2 wp-post-image" alt="Virtual Surveyor Introduces Curb Gutter Mapping in New Version of Drone Surveying Software" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/11/Virtual-Surveyor-Graphic_VS7.6.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/11/Virtual-Surveyor-Graphic_VS7.6.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/11/Virtual-Surveyor-Graphic_VS7.6.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/11/Virtual-Surveyor-Graphic_VS7.6.jpg?resize=696%2C392&amp;ssl=1 696w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/11/Virtual-Surveyor-Graphic_VS7.6.jpg?resize=747%2C420&amp;ssl=1 747w" sizes="auto, (max-width: 800px) 100vw, 800px" />			</figure>
+		</a>
+										</div><!-- .post_thumb.imghover -->
+															<div class="card_content">
+																<div class="post_title">
+									<h2><a href="https://www.suasnews.com/2020/11/virtual-surveyor-introduces-curb-gutter-mapping-in-new-version-of-drone-surveying-software/">Virtual Surveyor Introduces Curb Gutter Mapping in New Version of Drone Surveying Software</a></h2>
+								</div><!-- .post_title -->
+											<div class="cm-post-meta">
+				<ul class="post_meta">
+									</ul><!-- .post_meta -->
+			</div><!-- .meta -->
+				 
+							</div><!-- .card_content -->
+						</div><!-- .card -->
+					</div><!-- .col -->
+										<div class="cm-col-lg-6 cm-col-md-6 cm-col-12">
+						<div class="card">
+															<div class="post_thumb">
+											<a href="https://www.suasnews.com/2020/10/german-mapping-drone-takes-on-dji/">
+			<figure class="imghover">
+				<img width="800" height="450" src="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/v8ppk.jpg?resize=800%2C450&amp;ssl=1" class="attachment-cream-magazine-thumbnail-2 size-cream-magazine-thumbnail-2 wp-post-image" alt="German Mapping Drone Takes on DJI" decoding="async" loading="lazy" />			</figure>
+		</a>
+										</div><!-- .post_thumb.imghover -->
+															<div class="card_content">
+																<div class="post_title">
+									<h2><a href="https://www.suasnews.com/2020/10/german-mapping-drone-takes-on-dji/">German Mapping Drone Takes on DJI</a></h2>
+								</div><!-- .post_title -->
+											<div class="cm-post-meta">
+				<ul class="post_meta">
+									</ul><!-- .post_meta -->
+			</div><!-- .meta -->
+				 
+							</div><!-- .card_content -->
+						</div><!-- .card -->
+					</div><!-- .col -->
+										<div class="cm-col-lg-6 cm-col-md-6 cm-col-12">
+						<div class="card">
+															<div class="post_thumb">
+											<a href="https://www.suasnews.com/2020/10/hivemapper-builds-global-decentralized-mapping-network-offers-cash-for-aerial-and-ground-level-3d-video/">
+			<figure class="imghover">
+				<img width="800" height="450" src="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/hivemapper-web.jpg?resize=800%2C450&amp;ssl=1" class="attachment-cream-magazine-thumbnail-2 size-cream-magazine-thumbnail-2 wp-post-image" alt="Hivemapper Builds Global Decentralized Mapping Network,  Offers Cash for Aerial and Ground-Level 3D Video" decoding="async" loading="lazy" />			</figure>
+		</a>
+										</div><!-- .post_thumb.imghover -->
+															<div class="card_content">
+																<div class="post_title">
+									<h2><a href="https://www.suasnews.com/2020/10/hivemapper-builds-global-decentralized-mapping-network-offers-cash-for-aerial-and-ground-level-3d-video/">Hivemapper Builds Global Decentralized Mapping Network,  Offers Cash for Aerial and Ground-Level 3D Video</a></h2>
+								</div><!-- .post_title -->
+											<div class="cm-post-meta">
+				<ul class="post_meta">
+									</ul><!-- .post_meta -->
+			</div><!-- .meta -->
+				 
+							</div><!-- .card_content -->
+						</div><!-- .card -->
+					</div><!-- .col -->
+										<div class="cm-col-lg-6 cm-col-md-6 cm-col-12">
+						<div class="card">
+															<div class="post_thumb">
+											<a href="https://www.suasnews.com/2020/10/esri-uk-signs-partnership-with-drone-hardware-specialist-heliguy-to-create-end-to-end-drone-solution-for-aec-industry/">
+			<figure class="imghover">
+				<img width="800" height="450" src="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/Esri_UK_drone2.jpg?resize=800%2C450&amp;ssl=1" class="attachment-cream-magazine-thumbnail-2 size-cream-magazine-thumbnail-2 wp-post-image" alt="Esri UK signs partnership with drone hardware specialist Heliguy to create end-to-end drone solution for AEC industry" decoding="async" loading="lazy" />			</figure>
+		</a>
+										</div><!-- .post_thumb.imghover -->
+															<div class="card_content">
+																<div class="post_title">
+									<h2><a href="https://www.suasnews.com/2020/10/esri-uk-signs-partnership-with-drone-hardware-specialist-heliguy-to-create-end-to-end-drone-solution-for-aec-industry/">Esri UK signs partnership with drone hardware specialist Heliguy to create end-to-end drone solution for AEC industry</a></h2>
+								</div><!-- .post_title -->
+											<div class="cm-post-meta">
+				<ul class="post_meta">
+									</ul><!-- .post_meta -->
+			</div><!-- .meta -->
+				 
+							</div><!-- .card_content -->
+						</div><!-- .card -->
+					</div><!-- .col -->
+										<div class="cm-col-lg-6 cm-col-md-6 cm-col-12">
+						<div class="card">
+															<div class="post_thumb">
+											<a href="https://www.suasnews.com/2020/10/site-scan-for-arcgis-flight-app-q4-2020-update/">
+			<figure class="imghover">
+				<img width="800" height="450" src="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/arcgis-update.jpg?resize=800%2C450&amp;ssl=1" class="attachment-cream-magazine-thumbnail-2 size-cream-magazine-thumbnail-2 wp-post-image" alt="Site Scan for ArcGIS Flight App Q4 2020 Update" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/arcgis-update.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/arcgis-update.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/arcgis-update.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/arcgis-update.jpg?resize=696%2C392&amp;ssl=1 696w, https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/10/arcgis-update.jpg?resize=747%2C420&amp;ssl=1 747w" sizes="auto, (max-width: 800px) 100vw, 800px" />			</figure>
+		</a>
+										</div><!-- .post_thumb.imghover -->
+															<div class="card_content">
+																<div class="post_title">
+									<h2><a href="https://www.suasnews.com/2020/10/site-scan-for-arcgis-flight-app-q4-2020-update/">Site Scan for ArcGIS Flight App Q4 2020 Update</a></h2>
+								</div><!-- .post_title -->
+											<div class="cm-post-meta">
+				<ul class="post_meta">
+									</ul><!-- .post_meta -->
+			</div><!-- .meta -->
+				 
+							</div><!-- .card_content -->
+						</div><!-- .card -->
+					</div><!-- .col -->
+								</div><!-- .row -->
+		</div><!-- .section_inner -->
+	</section><!-- .cm-post-widget-three -->
+								</div><!-- .col -->
+							<div class="cm-col-lg-4 cm-col-12 sticky_portion">
+	<aside id="secondary" class="sidebar-widget-area">
+		<div id="adrotate_widgets-7" class="widget adrotate_widgets"><div class="g g-1"><div class="g-single a-26"><a class="gofollow" data-track="MjYsMSw2MA==" href="https://thedronemap.com/" target="_blank"><img src=https://www.suasnews.com/wp-content/uploads/2026/05/dronemaps-300x250-1.jpg "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2026/05/dronemaps-300x250-1.jpg?ssl=1" /></a></div></div></div><div id="block-25" class="widget widget_block">
+<!-- 2022 Right hand side -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7294815933338205"
+     data-ad-slot="9262048204"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+</div>	</aside><!-- #secondary -->
+</div><!-- .col.sticky_portion -->
+						</div><!-- .row -->
+					</div><!-- .single-container -->
+				</div><!-- .cm_post_page_lay_wrap -->
+			</main><!-- #main.site-main -->
+		</div><!-- #primary.content-area -->
+	</div><!-- .inner-page-wrapper -->
+</div><!-- .cm-container -->
+</div><!-- #content.site-content -->
+		<footer class="footer">
+			<div class="footer_inner">
+				<div class="cm-container">
+				<div class="row footer-widget-container">
+				<div class="cm-col-lg-4 cm-col-12">
+			<div class="blocks">
+							</div><!-- .blocks -->
+		</div><!-- .cm-col-->
+				<div class="cm-col-lg-4 cm-col-12">
+			<div class="blocks">
+							</div><!-- .blocks -->
+		</div><!-- .cm-col-->
+				<div class="cm-col-lg-4 cm-col-12">
+			<div class="blocks">
+							</div><!-- .blocks -->
+		</div><!-- .cm-col-->
+				</div><!-- .row -->
+				<div class="copyright_section">
+		<div class="row">
+				<div class="cm-col-lg-7 cm-col-md-6 cm-col-12">
+			<div class="copyrights">
+				<p>
+					Copyright &copy; 2026 sUAS News. All rights reserved.				</p>
+			</div>
+		</div><!-- .col -->
+				<div class="cm-col-lg-5 cm-col-md-6 cm-col-12">
+			<div class="footer_nav">
+							</div><!-- .footer_nav -->
+		</div><!-- .col -->
+				</div><!-- .row -->
+		</div><!-- .copyright_section -->
+				</div><!-- .cm-container -->
+		</div><!-- .footer_inner -->
+		</footer><!-- .footer -->
+				</div><!-- .page_wrap -->
+					<div class="backtoptop">
+				<button id="toTop" class="btn btn-info">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="14" width="14"><path d="M233.4 105.4c12.5-12.5 32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L256 173.3 86.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l192-192z"/></svg>
+				</button>
+			</div><!-- ./ backtoptop -->
+			
+				<div class="jetpack-subscribe-floating-button">
+						<div style="margin-right:20px;margin-left:20px;margin-top:20px;margin-bottom:20px" class="wp-block-jetpack-subscriptions__supports-newline is-style-button wp-block-jetpack-subscriptions">
+		<div class="wp-block-jetpack-subscriptions__container is-not-subscriber">
+							<form
+					action="https://wordpress.com/email-subscriptions"
+					method="post"
+					accept-charset="utf-8"
+					data-blog="102389951"
+					data-post_access_level="everybody"
+					data-subscriber_email=""
+					id="subscribe-blog-2"
+				>
+					<div class="wp-block-jetpack-subscriptions__form-elements">
+												<p id="subscribe-submit"
+													>
+							<input type="hidden" name="action" value="subscribe"/>
+							<input type="hidden" name="blog_id" value="102389951"/>
+							<input type="hidden" name="source" value="https://www.suasnews.com/2017/09/pix4d-machine-learning-meets-photogrammetry/"/>
+							<input type="hidden" name="sub-type" value="subscribe-block"/>
+							<input type="hidden" name="app_source" value="subscribe-floating-button"/>
+							<input type="hidden" name="redirect_fragment" value="subscribe-blog-2"/>
+							<input type="hidden" name="lang" value="en_GB"/>
+							<input type="hidden" id="_wpnonce" name="_wpnonce" value="86e7806a05" /><input type="hidden" name="_wp_http_referer" value="/2017/09/pix4d-machine-learning-meets-photogrammetry/" /><input type="hidden" name="post_id" value="56404"/>							<button type="submit"
+																	class="wp-block-button__link no-border-radius"
+																									style="font-size: 16px;padding: 15px 23px 15px 23px;border-radius: 0px;border-width: 1px;"
+																name="jetpack_subscriptions_widget"
+							>
+								Subscribe							</button>
+						</p>
+					</div>
+				</form>
+								</div>
+	</div>
+					</div>
+					
+		
+
+
+
+
+
+
+
+<script data-jetpack-boost="ignore" id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.suasnews.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0.1"}}
+</script>
+
+		<script id="google_gtagjs-js-consent-mode-data-layer">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500});
+window._googlesitekitConsentCategoryMap = {"statistics":["analytics_storage"],"marketing":["ad_storage","ad_user_data","ad_personalization"],"functional":["functionality_storage","security_storage"],"preferences":["personalization_storage"]};
+window._googlesitekitConsents = {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500};
+</script><script id="jetpack_related-posts-js-extra">
+var related_posts_js_options = {"post_heading":"h4"};
+//# sourceURL=jetpack_related-posts-js-extra
+</script><script type='text/javascript' src='https://www.suasnews.com/wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?m=1783541589'></script><script id="jquery-core-js" src="https://www.suasnews.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script><script type='text/javascript' src='https://www.suasnews.com/wp-includes/js/jquery/jquery-migrate.min.js?m=1721756692'></script><script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=GT-WFMDW7TQ" async></script><script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.suasnews.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-WFMDW7TQ", {"googlesitekit_post_type":"post","googlesitekit_post_date":"20170925","googlesitekit_post_author":"Press"});
+//# sourceURL=google_gtagjs-js-after
+</script><script async crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7294815933338205&#038;host=ca-host-pub-2644536267352236"></script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7294815933338205"
+     crossorigin="anonymous"></script><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/cream-magazine/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script><script>window.addEventListener( 'load', function() {
+				document.querySelectorAll( 'link' ).forEach( function( e ) {'not all' === e.media && e.dataset.media && ( e.media = e.dataset.media, delete e.dataset.media );} );
+				var e = document.getElementById( 'jetpack-boost-critical-css' );
+				e && ( e.media = 'not all' );
+			} );</script><script id="adrotate-clicker-js-extra">
+var click_object = {"ajax_url":"https://www.suasnews.com/wp-admin/admin-ajax.php"};
+//# sourceURL=adrotate-clicker-js-extra
+</script><script id="cream-magazine-bundle-js-extra">
+var cream_magazine_script_obj = {"show_search_icon":"1","show_news_ticker":"1","show_banner_slider":"","show_to_top_btn":"1","enable_sticky_sidebar":"1","enable_sticky_menu_section":""};
+//# sourceURL=cream-magazine-bundle-js-extra
+</script><script type='text/javascript' src='https://www.suasnews.com/wp-content/boost-cache/static/2ba18f055b.min.js'></script><script id="jetpack-stats-js-before">
+_stq = window._stq || [];
+_stq.push([ "view", {"v":"ext","blog":"102389951","post":"56404","tz":"0","srv":"www.suasnews.com","j":"1:16.0"} ]);
+_stq.push([ "clickTrackerInit", "102389951", "56404" ]);
+//# sourceURL=jetpack-stats-js-before
+</script><script data-wp-strategy="defer" defer fetchpriority="low" id="jetpack-stats-js" src="https://stats.wp.com/e-202629.js"></script><script id="jetpack-blocks-assets-base-url-js-before">
+var Jetpack_Block_Assets_Base_Url="https://www.suasnews.com/wp-content/plugins/jetpack/_inc/blocks/";
+//# sourceURL=jetpack-blocks-assets-base-url-js-before
+</script><script id="wp-dom-ready-js" src="https://www.suasnews.com/wp-includes/js/dist/dom-ready.min.js?ver=a06281ae5cf5500e9317"></script><script type='text/javascript' src='https://www.suasnews.com/wp-content/boost-cache/static/4f62331846.min.js'></script><script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.suasnews.com/wp-includes/js/wp-emoji-loader.min.js
+</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"8cca2d6f8674409e9029b8520213336a","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1a588965e74d70d',t:'MTc4MzkxNjgyOQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+		</html>
+		
+<!--Cached using Nginx-Helper on 2026-07-13 04:27:10. It took 132 queries executed in 0.293 seconds.-->
+<!--Visit http://wordpress.org/extend/plugins/nginx-helper/faq/ for more details-->
