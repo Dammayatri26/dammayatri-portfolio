@@ -83,8 +83,21 @@ nav:
     - Remote Sensing:
       - "Overview": projects/index-rs.md
       - "Muara Gembong Mangrove Extent": projects/rs-muaragembong.md
-    - "Sample Project": projects/sample-project.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
+      - "DSM & DTM Generation From Stereo Pair High-Resolution Satellite Imagery": projects/rs-dsm.md
+      - "Jakarta Green Open Space Analysis": projects/rs-jkt.md
+      - "Urban Built-Up Area Change Mapping Using Time-Series Sentinel Imagery": projects/rs-palembang.md
+    - GIS and Spatial:
+      - "Overview": projects/index-gis.md
+      - "Restore Africa Project Monitoring Dashboard": projects/gis-dashboard.md
+      - "Restore Africa Eligibility Mapping Assessment": projects/gis-eligibility.md
+      - "Dental Clinic Expansion Analysis Using Spatial Analysis and Hexagon": projects/gis-jabodetabek.md
+      - "Mapping Customer Pattern and Distribution": projects/gis-geocode.md
+    - LiDAR Data Processing:
+      - "Overview": projects/index-lidar.md
+    - Photogrammetry/UAV Data Processing:
+      - "Overview": projects/index-uav.md
+    - Geospatial Intelligence:
+      - "Overview": projects/index-gi.md
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)

@@ -43,4 +43,3 @@ This project monitors mangrove cover change in Muaragembong over time, using Goo
 ## Links
 
 [View Google Earth Engine App](https://dammayatri.users.earthengine.app/view/geeappsguyanamangrovenasa){ .md-button }
-[View Code on GitHub](https://github.com/[YOUR-GITHUB-USERNAME]/[YOUR-REPO-NAME]){ .md-button }

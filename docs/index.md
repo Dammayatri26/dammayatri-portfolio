@@ -58,7 +58,7 @@ Originally from Indonesia, currently based in Brisbane, Australia on Work and Ho
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS**
+-   :material-layers:{ .lg .middle } **GIS and Spatial**
 
     ---
 
@@ -102,6 +102,7 @@ Originally from Indonesia, currently based in Brisbane, Australia on Work and Ho
     - Storymaps
     - ArcGIS Dashboard
     - QGIS2Web
+    - PyQGIS
     - Leaflet.js, Folium, MapLibre GL JS
 
 -   :material-database:{ .lg .middle } **Geospatial Intelligence**
