@@ -20,7 +20,6 @@ Built an interactive dashboard to track landscape restoration activities, spatia
 
 - Field-collected monitoring data (via ArcGIS Field Maps)
 - Centralized geospatial project database
-- [Restoration activity / program indicator datasets]
 
 **Processing Steps**
 
@@ -44,8 +43,3 @@ Built an interactive dashboard to track landscape restoration activities, spatia
 - Enabled real-time tracking of restoration activities and spatial coverage for the team and stakeholder.
 - Improved data accuracy and consistency by standardizing field data collection workflows.
 
----
-
-## Links
-
-[View Data Source](https://example.com){ .md-button }

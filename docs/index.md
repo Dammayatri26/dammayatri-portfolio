@@ -36,7 +36,7 @@ My journey into GIS began with a fascination for how location and spatial relati
 
 I have experience transforming complex spatial datasets into meaningful insights — from designing data collection workflows and managing geospatial databases to developing dashboards, analysing spatial information, and creating clear documentation to support decision-making. I enjoy solving spatial challenges, improving data quality, and building efficient workflows that bridge technical analysis with practical outcomes.
 
-Originally from Indonesia, currently based in Brisbane, Australia on Work and Holiday Visa (subclass 462), I am passionate about applying GIS and remote sensing to spatial intelligence, data management, and geospatial problem-solving. I bring analytical rigour, curiosity, and a commitment to delivering accurate, impactful geospatial solutions.
+Originally from Indonesia, currently based in Brisbane, Australia on Work and Holiday Visa (subclass 462). I'm actively seeking opportunities in geospatial-related fields in Australia and worldwide. If you're working on something interesting, I'd love to hear from you.
 
 </div>
 

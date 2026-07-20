@@ -2,6 +2,8 @@
 
 ![Project overview image](../assets/images/Muaragembong.png)
 
+[View Google Earth Engine App](https://dammayatri.users.earthengine.app/view/geeappsguyanamangrovenasa){ .md-button }
+
 ## Overview
 
 This project monitors mangrove cover change in Muaragembong over time, using Google Earth Engine (GEE) to identify areas of mangrove loss and gain and to better understand long-term trends in mangrove extent.
@@ -37,9 +39,3 @@ This project monitors mangrove cover change in Muaragembong over time, using Goo
 - Produced a multi-temporal (2000, 2010, 2020) map of mangrove extent for the study area.
 - Identified spatial patterns of mangrove loss and gain across the three time periods.
 - Delivered results as an interactive Google Earth Engine App for public viewing.
-
----
-
-## Links
-
-[View Google Earth Engine App](https://dammayatri.users.earthengine.app/view/geeappsguyanamangrovenasa){ .md-button }

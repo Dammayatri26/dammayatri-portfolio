@@ -14,7 +14,7 @@ CHECKLIST FOR THIS PAGE:
 
 # GIS and Spatial
 
-A selection of my remote sensing projects. Click any card to see the full write-up.
+A selection of my GIS projects. Click any card to see the full write-up.
 
 <div class="grid" markdown>
 
