@@ -11,7 +11,7 @@ site_name: "Retno Dammayatri - Geospatial Portfolio"
 site_description: "Portfolio of Retno Dammayatri — GIS and Remote Sensing Analyst"
 site_author: "Retno Dammayatri"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://your-username.github.io/your-repo-name"
+site_url: "https://Dammayatri26.github.io/dammayatri-portfolio/
 
 theme:
   name: material
